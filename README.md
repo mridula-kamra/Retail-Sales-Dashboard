@@ -77,4 +77,4 @@ The dataset used contains retail sales records with the following key columns:
 
 ---
 ## Screenshot
- What the Dashboard look like - https://github.com/mridula-kamra/Retail-Sales-Dashboard/blob/main/Retail_Sales_Dashboard_SS.png
+ What the Dashboard look like - [Dashboard Preview](https://github.com/mridula-kamra/Retail-Sales-Dashboard/blob/main/Retail_Sales_Dashboard_SS.png)
